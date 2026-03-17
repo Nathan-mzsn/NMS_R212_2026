@@ -1,0 +1,72 @@
+  :root {
+      /* Couleurs */
+      --color-primary: #2563eb;
+      --color-text: #1f2937;
+      --color-text-light: #6b7280;
+      --color-bg: #ffffff;
+      --color-bg-alt: #f9fafb;
+
+      /* Espacements */
+      --space-sm: 0.5rem;
+      --space-md: 1rem;
+      --space-lg: 2rem;
+      --space-xl: 4rem;
+
+      /* Typographie */
+      --font-base: system-ui, -apple-system, sans-serif;
+      --line-height: 1.6;
+  }
+
+  body {
+      font-family: var(--font-base);
+      line-height: var(--line-height);
+      color: var(--color-text);
+      margin: 0;
+      margin-left: 20%;
+      margin-right: 20%;
+  }
+
+  h1, h2, h3 {
+      line-height: 1.2;
+  } 
+
+  header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      padding-left: 40px;
+      padding-right: 40px;
+      background-color: #b8b8b8;
+  } 
+
+  ul {
+    display:flex;
+    justify-content: space-between;
+  }
+
+  li {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    margin-left: 5px;
+  }
+
+  .hero {
+    display: flex;
+    flex-direction: column;
+    align-item: center;
+    min-height: 200px;
+    text-align: center;
+  }
+
+  #a1 {
+    display: flex;
+    background-color: var(--color-primary);
+    border-radius: 35px;
+    justify-content: center;
+    width: 250px;
+    color: white;
+
+  }
