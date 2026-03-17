@@ -32,8 +32,7 @@ Utilisation de Gemini dans le but de comprendre comment créer le repository Git
 
 ### Prompts significatifs
 
-1. "je viens de créer un repository github je veux qu'il est cette structure comment je dois faire"
-   + screen de la consigne de structure
+1. "je viens de créer un repository github je veux qu'il est cette structure comment je dois faire" + screen de la consigne de structure
 
 Expliquez le modèle événement → état → rendu avec un exemple de votre choix (pas un exemple du sujet)
 Expliquez en quoi classList.toggle est la passerelle entre JS et CSS
