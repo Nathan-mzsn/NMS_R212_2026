@@ -2,16 +2,13 @@
 
 ## Points clés
 
-### 1. [Titre du premier point]
+### 1. Utilisation de grid
 
-[Explication en 1-2 phrases avec vos mots.]
+- J'ai appris à utiliser grid plutôt que flex box par habitude. D'abord grâce à Grid garden puis dirctement en pratique.
 
-### 2. [Titre du deuxième point]
+### 2. Variable CSS en fondations 
 
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
-
-[Explication en 1-2 phrases avec vos mots.]
+- Je ne savais pas que l'on pouvait définir des variables css, ca se révèle très utile lorque que l'on suit un guide style avec des couleurs, des typographies, ... particulières.
  
 ## Utilisation de l'IA
 
