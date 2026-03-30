@@ -15,19 +15,11 @@ Un élément intégré le navigateur qui garde les données même si on rafraîc
 
 ### Démarche
 
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
-
+Gemini pour m'aider à corriger un script 
 ### Apports et limites
 
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
+Elle m'a débloqué deux fonctinalités qui ne fonctionnait pas (problème de synthaxe)
 
 ### Prompts significatifs
 
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
-2. "[Prompt]" → [Ce que ça a donné]
-3. "[Prompt]" → [Ce que ça a donné]
-
-<!-- Si aucune IA n'a été utilisée, remplacez tout le bloc ci-dessus par :
-"Aucune IA utilisée lors de cette séance." -->
+1. "pourquoi les lignes 75 jusqu'à 99 de mon JavaScript n'ont t-elles aucun effet ? " + script.js → Il m'a expliqué ce qui n'allait pas et m'a donnée les deux paragraphes corrigés pour le bouton "supprimer" et le filtre par order alphabétique. La suppression de fonctionne cependant toujours pas.
