@@ -28,7 +28,6 @@ function afficherProjets(listeProjets) {
   });
 }
 
-afficherProjets(projets);
 
 const boutonsFiltres = document.querySelectorAll('.filtre');
 
@@ -68,6 +67,7 @@ form.addEventListener('submit', (event) => {
   };
 
   projets.push(nouveauProjet);
+  sauvegarder();
   afficherProjets(projets);
   form.reset(); // Vider le formulaire
 });
