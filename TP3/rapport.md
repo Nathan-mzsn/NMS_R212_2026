@@ -6,7 +6,7 @@
 
 Au lieu d'écrire à chaque fois la même balise html <article>, je peux maintenant créer une seule fois un modèle en JavaScript et il se répète tout seul. 
 
-### 2. LocalStorage
+### 2. Notion de LocalStorage
 
 Un élément intégré le navigateur qui garde les données même si on rafraîchis la page. On peut garder ce qui est rempli dans un formulaire  sans que cela disparaîtraisse alors d'un rafraîchissement.
 
