@@ -1,17 +1,15 @@
-# Rapport — [TD1 / TP1 / etc.]
+# Rapport — TP3
 
 ## Points clés
 
-### 1. [Titre du premier point]
+### 1. Le JS supprime la répétition html
 
-[Explication en 1-2 phrases avec vos mots.]
+Au lieu d'écrire à chaque fois la même balise html <article>, je peux maintenant créer une seule fois un modèle en JavaScript et il se répète tout seul. 
 
-### 2. [Titre du deuxième point]
+### 2. LocalStorage
 
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
+Un élément intégré le navigateur qui garde les données même si on rafraîchis la page. On peut garder ce qui est rempli dans un formulaire  sans que cela disparaîtraisse alors d'un rafraîchissement.
 
-[Explication en 1-2 phrases avec vos mots.]
  
 ## Utilisation de l'IA
 
